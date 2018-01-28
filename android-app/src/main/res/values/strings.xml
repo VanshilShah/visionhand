@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">VisionHand</string>
+
+    <string name="threshold_h_min_key">threshold_h_min_key</string>
+    <string name="threshold_h_max_key">threshold_h_max_key</string>
+    <string name="threshold_s_min_key">threshold_s_min_key</string>
+    <string name="threshold_s_max_key">threshold_s_max_key</string>
+    <string name="threshold_v_min_key">threshold_v_min_key</string>
+    <string name="threshold_v_max_key">threshold_v_max_key</string>
+</resources>
